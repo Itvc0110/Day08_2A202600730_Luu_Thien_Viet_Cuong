@@ -2,7 +2,7 @@
 
 **Source:** https://vietnamnet.vn/cong-an-tphcm-thong-tin-vu-2-khoi-to-bat-giu-ca-si-chi-dan-va-nguoi-mau-an-tay-2341921.html
 
-**Crawled:** 2026-06-08T11:18:50.223783
+**Crawled:** 2026-06-08T17:01:46.445268
 
 ---
 
